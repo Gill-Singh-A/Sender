@@ -2,7 +2,7 @@
 A Program made in Python for spamming a message copied to clipboard
 
 ## Requirements
-Language Used = Python3
+Language Used = Python3<br />
 Modules/Packages used:
 * keyboard
 * sys
