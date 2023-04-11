@@ -12,7 +12,7 @@ Modules/Packages used:
 It takes 3 arguments from the command that is used to run the Python Program
 1. Number of Times the message should be sent
 2. Delay at the starting (in seconds)
-3. Delay between sending each message
+3. Delay between sending each message <br />
 For example:
 ```bash
 python sender.py number_of_time_the_message_should_be_sent delay_at_the_starting delay_between_sending_each_message
