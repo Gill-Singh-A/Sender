@@ -5,4 +5,4 @@ if __name__ == "__main__":
     for i in range(int(sys.argv[1])):
         keyboard.press_and_release('ctrl+v')
         keyboard.press_and_release('enter')
-        time.sleep(int(sys.argv[3]))
+        time.sleep(float(sys.argv[3]))
